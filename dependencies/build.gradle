@@ -32,7 +32,7 @@ libraries.hibernate_java8                   = "org.hibernate:hibernate-java8:5.6
 libraries.postgresql                        = "org.postgresql:postgresql:42.2.10"
 libraries.junitJupiter                     = "org.junit.jupiter:junit-jupiter-api:5.6.0"
 libraries.junitEngine                      = "org.junit.jupiter:junit-jupiter-engine"
-libraries.commonsLang3                     = "org.apache.commons:commons-lang3:3.0"
+libraries.commonsLang3                     = "org.apache.commons:commons-lang3:3.12.0"
 
 
 // Dependencies (some rely on shared versions, some are shared between projects)
